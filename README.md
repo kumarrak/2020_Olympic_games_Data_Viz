@@ -1,5 +1,4 @@
 # Tokyo Olympics Data Analysis and Vizualization
-#### Ashok Rayapati  
 #### Date: 3/10/2022
 
 - The project is about visualization the Tokyo Olympics 2021 dataset using graphs, bar charts, normal charts, and pie charts. 
