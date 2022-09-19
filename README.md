@@ -1,7 +1,7 @@
 # Tokyo Olympics Data Analysis and Vizualization
 #### Date: 3/10/2022
 
-- The project is about visualization the Tokyo Olympics 2021 dataset using graphs, bar charts, normal charts, and pie charts. 
+- The project is about visualization the Tokyo Olympics 2021 dataset using python. 
 
 #### Dataset:
 - The dataset contains information on nearly 11,000 competitors representing 47 sports and 743 teams competing in the Tokyo Olympics in 2021 (2020).
